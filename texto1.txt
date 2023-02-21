@@ -1,0 +1,2 @@
+      Problema detectado
+Fue que las cotizaciones se realizaban de forma manual, y esto consumia mucho tiempo para los agentes y no lograban avanzar ya que todos los calculos los tenian que realizar ellos y no se podia llegar a la meta planteada por dia entonces se decidio poder buscar una manera para automizar los procesos y poder realizarlos de forma mas rapia por lo cual se solicitio el programa que solo se ingresan los datos y los datos se generan solos.

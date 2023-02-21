@@ -1,0 +1,14 @@
+               ALGORITMO DE PASOS PARA REALIZAR EL PROGRAMA
+1.Solicitar el nombre de la persona que se va a asegurar
+2.solicitar edad de la persona que va a realizar la cotizacion
+3.crear una condicion donde indique que si la persona es mayor de edad se continua y sino se termina diciendo que no se asegura a menores
+4.si la persona es mayor de edad continua haciendo preguntas
+5.con el dato ya guardado de la edad se crea una condicion para saber en que rango de edad se encuentra y asi asignarle un porcentaje de cargo
+6.se pregunta si la persona tiene conyuge, si no tiene se pasa a la siguiente pregunta
+7.si tiene conyuge se pregunta la edad del conyuge para saber segun la condicion de edad que rango de porcentaje se aplicara
+8.se pregunta si la personas tiene hijos
+9.si tiene hijos se pregunta la cantidad de hijos
+10.si la respuesta es si se pregunta la cantidad de hijos y si fue no ya no se realizan mas preguntas
+11.se muestra el nombre del asegurado
+12.se muestra el dato del monto de recargo
+13.se muestra el precio final que seria el precio base mas el recargo
